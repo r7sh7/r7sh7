@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hrishikesh Bolinjkar
-- I am a software developer 
+- I am a Software Developer 
 - I am currently working on automating workflows with AI and building AI Agents 
-- I love to leverage technology to automate workflows and make them more efficient
+- I love to solve problems and come up with efficient solutions by leveraging technology
 
 <!---
 r7sh7/r7sh7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
