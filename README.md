@@ -1,9 +1,18 @@
-- 👋 Hi, I’m Hrishikesh Bolinjkar
-- I am a Software Developer 
-- I am currently working on automating workflows with AI and building AI Agents 
-- I love to solve problems and come up with efficient solutions by leveraging technology
+### Hrishikesh Bolinjkar
 
-<!---
-r7sh7/r7sh7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I turn AI into working software for real businesses — chatbots that capture leads,
+integrations that kill manual work, automations that pay for themselves.
+
+Tech Lead @ a US startup (remote from Pune, India). Full stack: React/Next.js ·
+Python/FastAPI · Java/Spring Boot · LLM systems (grounding, MCP, cost engineering).
+
+**Now:** production AI systems at Alyne · building a therapist practice platform ·
+writing about patterns that repeat across nature, code, and markets.
+
+🔗 [Portfolio + case studies](https://hrishikesh-portfolio-zeta.vercel.app) ·
+[Blog](https://rishibolinjkar.hashnode.dev) ·
+[LinkedIn](https://www.linkedin.com/in/rishi-bolinjkar)
+
+<sub>Heads up on the repos here: the 2021 clone projects are where I started — kept
+public honestly, not as a showcase. Case studies of my current production work live
+on the portfolio above.</sub>
