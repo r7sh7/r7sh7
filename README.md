@@ -6,8 +6,9 @@ integrations that kill manual work, automations that pay for themselves.
 Tech Lead @ a US startup (remote from Pune, India). Full stack: React/Next.js ·
 Python/FastAPI · Java/Spring Boot · LLM systems (grounding, MCP, cost engineering).
 
-**Now:** production AI systems at Alyne · building a therapist practice platform ·
-writing about patterns that repeat across nature, code, and markets.
+**Now:** client-facing Tech Lead at Alyne (Zoho + AI solutions, Claude across agency ops) ·
+built Alyne Interact, my own self-serve chatbot product · sharpening agentic-build craft on a
+personal practice project · writing about patterns that repeat across nature, code, and markets.
 
 🔗 [Portfolio + case studies](https://hrishikesh-portfolio-zeta.vercel.app) ·
 [Blog](https://rishibolinjkar.hashnode.dev) ·
